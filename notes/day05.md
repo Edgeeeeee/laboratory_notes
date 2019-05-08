@@ -33,4 +33,5 @@
 	- 匹配默认为贪婪匹配，
 	- '?' 表示非贪婪匹配，放在防止贪婪匹配的结束字符的前面
 	- （）：括号内表示需要的，其他的符号只是为了定位
-	- ![avatar](C:\Users\qaz\Desktop\pycode\pic\re_operate1.png)
+	- ![avatar](https://s3.ax2x.com/2019/05/08/re_operate1.jpg)
+	- ![avatar](https://s2.ax1x.com/2019/05/08/Ey7Cz6.jpg)
